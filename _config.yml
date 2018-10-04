@@ -1,3 +1,10 @@
 title: vijay07roy.github.io
 description:  GitHub Pages.
 theme: jekyll-theme-minimal
+
+# Analytics
+analytics:
+  provider               : google # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : UA-126952266-1
+    anonymize_ip    
